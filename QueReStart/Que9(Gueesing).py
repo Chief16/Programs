@@ -6,7 +6,6 @@ user = 0
 count = 0
 cont = True
 
-def game()
 while cont:
     user = input("Guess a number: ")
     if user == "exit":
